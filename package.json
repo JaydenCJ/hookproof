@@ -2,7 +2,7 @@
   "name": "hookproof",
   "version": "0.1.0",
   "description": "Verify and generate webhook signatures for Stripe, GitHub, Slack, Svix and Standard Webhooks. Diagnosis-first: shows the canonical string, timestamp skew and encoding mismatches instead of a bare boolean.",
-  "author": "JaydenCJ",
+  "author": "JaydenCJ <aisingioro.kiyon@gmail.com>",
   "license": "MIT",
   "type": "module",
   "bin": {
